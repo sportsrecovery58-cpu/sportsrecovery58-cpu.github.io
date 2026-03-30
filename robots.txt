@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://sportsrecovery58-cpu.github.io
+
+# Sitemaps
+Sitemap: https://sportsrecovery58-cpu.github.io/sitemap.xml
